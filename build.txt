@@ -1,0 +1,3 @@
+displayName = Liquid Library
+author = BlueMoonJune
+version = 0.1

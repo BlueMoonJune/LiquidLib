@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qjLEeDCNBTrlXTJooNCXMKvwR+CMfLftoECRTm21q5c0eJRZcQo/bf278BalAA8PUOwzk+LYIXSI7K6Wlsx99A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\camer\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\LiquidLib\\LiquidLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\camer\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
